@@ -3,5 +3,5 @@
 
 This is a simple attendance tracker that utilise firebase to track attendance remotely. 
 
-##Prototype Video
+## Prototype Video
 [YouTube Link](https://youtube.com/shorts/iYawzrSzhwc?feature=share)
